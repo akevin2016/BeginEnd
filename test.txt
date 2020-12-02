@@ -1,0 +1,21 @@
+begin
+    a
+    b
+    begin
+        begin
+            c
+        end
+        begin
+            begin
+                begin
+                end
+            end
+        end
+        k
+        begin
+            l
+            iio
+        end
+        d
+    end
+end
